@@ -1,0 +1,8 @@
+package-as: DataStore_Reputations
+
+move-folders:
+ DataStore_Reputations/DataStore_Reputations: DataStore_Reputations
+
+ignore:
+ - LICENCE.md
+ - README.md
