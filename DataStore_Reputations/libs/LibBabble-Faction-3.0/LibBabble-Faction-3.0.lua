@@ -441,7 +441,7 @@ elseif GAME_LOCALE == "deDE" then
 	["Wrynn's Vanguard"] = "Wrynns Vorhut",
 	["Zandalar Tribe"] = "Stamm der Zandalari",
 	--[[Translation missing --]]    
-    ["The Unshackled"] = "Die Enfesselten",
+    ["The Unshackled"] = "Die Entfesselten",
     ["Waveblade Ankoan"] = "Ankoaner der Meeresklinge",
     
 }
