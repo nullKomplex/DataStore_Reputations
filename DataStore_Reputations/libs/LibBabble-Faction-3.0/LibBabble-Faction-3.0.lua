@@ -1341,8 +1341,8 @@ elseif GAME_LOCALE == "esMX" then
 	--[[ ["Wrynn's Vanguard"] = "Wrynn's Vanguard",--]] 
 	["Zandalar Tribe"] = "Tribu Zandalar",
 	--[[Translation missing --]]    
-    ["The Unshackled"] = "Desencadenados",
-    ["Waveblade Ankoan"] = "Ankoan Hojamarea",
+    ["The Unshackled"] = "Los Desencadenados",
+    ["Waveblade Ankoan"] = "Ankoano Cuchilla marina",
 }
 elseif GAME_LOCALE == "ptBR" then
 	lib:SetCurrentTranslations {
