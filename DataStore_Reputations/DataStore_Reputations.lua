@@ -244,7 +244,7 @@ local factions = {
     
     -- Shadowlands
 	{ id = 2410, name = GetFactionInfoByID(2410) or BF["The Undying Army"]}, 
-	{ id = 2422, name = GetFactionInfoByID(2465) or BF["The Wild Hunt"]},
+	{ id = 2465, name = GetFactionInfoByID(2465) or BF["The Wild Hunt"]},
 	{ id = 2413, name = GetFactionInfoByID(2413) or BF["Court of Harvesters"] },
     { id = 2407, name = GetFactionInfoByID(2407) or BF["The Ascended"] },	          -- The Ascended
 }
