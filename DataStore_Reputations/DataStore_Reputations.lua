@@ -248,6 +248,9 @@ local factions = {
 	{ id = 2413, name = GetFactionInfoByID(2413) or BF["Court of Harvesters"] },
     { id = 2407, name = GetFactionInfoByID(2407) or BF["The Ascended"] },
     { id = 2432, name = GetFactionInfoByID(2432) },     -- Ve'nari
+    { id = 2464, name = GetFactionInfoByID(2464) },     -- Court of Night
+    { id = 2439, name = GetFactionInfoByID(2439) },     -- The Avowed
+    { id = 2463, name = GetFactionInfoByID(2463) },     -- Marasimus
 }
 
 local FactionUIDsRev = {}
